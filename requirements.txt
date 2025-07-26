@@ -1,5 +1,5 @@
 streamlit==1.35.0
-tensorflow==2.15.0
+tensorflow-cpu==2.13.0
 scikit-learn==1.4.1
 xgboost==2.0.3
 lightgbm==4.3.0
